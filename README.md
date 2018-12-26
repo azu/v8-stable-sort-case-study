@@ -9,6 +9,8 @@ It means that `Array#sort` cause different result in some cause.
 
 ## Example
 
+We want to arrange the array in descending order. 
+
 If you want to tests, do following commands. 
 
 - Get Node.js 10 result: `npm run node10`

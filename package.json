@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "node10": "npx -p node@^10 node index.js",
-    "node11": "npx -p node@^11 node index.js"
+    "node11": "npx -p node@^11 node index.js",
+    "node10:fixed": "npx -p node@^10 node index-fixed.js",
+    "node11:fixed": "npx -p node@^11 node index-fixed.js"
+
   },
   "keywords": [],
   "author": "azu",
