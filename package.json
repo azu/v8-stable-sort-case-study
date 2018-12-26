@@ -1,0 +1,13 @@
+{
+  "name": "v8-stable-sort-case-study",
+  "version": "1.0.0",
+  "description": "Stable sort case study.",
+  "main": "index.js",
+  "scripts": {
+    "node10": "npx -p node@^10 node index.js",
+    "node11": "npx -p node@^11 node index.js"
+  },
+  "keywords": [],
+  "author": "azu",
+  "license": "MIT"
+}
