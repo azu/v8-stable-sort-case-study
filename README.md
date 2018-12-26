@@ -5,7 +5,7 @@ Node.js 11(V8 7.0) use stable sort.
 - [Node v11.0.0 (Current) | Node.js](https://nodejs.org/en/blog/release/v11.0.0/)
 - [Getting things sorted in V8 · V8](https://v8.dev/blog/array-sort)
 
-It means that `Array#sort` cause different result in some cause.
+It means that `Array#sort` cause different result in some case.
 
 ## Example
 
